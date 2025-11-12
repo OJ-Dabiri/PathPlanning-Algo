@@ -1,0 +1,13 @@
+8 10 // Room dimensions (rows, cols)
+2     // Number of robots
+1 2   // Robot 1 start (row, col)
+2 8   // Robot 2 start (row, col)
+7 4   // Rendezvous point (row, col)
+1000000001
+1100000011
+0000000000
+1000110001
+1001111001
+0001111000
+0000110000
+1100000011

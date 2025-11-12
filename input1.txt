@@ -1,0 +1,13 @@
+8 10 // the room has dimensions 8 by 10
+2 // 2 robots
+2 1 // 1st robot start position
+8 2 // 2nd robot start position
+4 7 // rendezvous point
+1000000001 // room points
+1100000011
+0000000000
+1000110001
+1001111001
+0001111000
+0000110000
+1100000011
